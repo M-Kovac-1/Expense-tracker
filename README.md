@@ -1,2 +1,4 @@
 # Expense-tracker
-my first react app 
+My first app built in react
+
+User can add or filter through expenses
